@@ -1,0 +1,8 @@
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.deps.json
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.pdb
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfo.cs
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\amorris\Documents\C#\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\Exercise Files\CH04\04-15\done\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.pdb

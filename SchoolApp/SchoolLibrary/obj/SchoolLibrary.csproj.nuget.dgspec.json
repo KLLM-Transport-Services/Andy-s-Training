@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amorris\\Documents\\C#\\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\\Exercise Files\\CH04\\04-15\\done\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amorris\\Documents\\C#\\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\\Exercise Files\\CH04\\04-15\\done\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amorris\\Documents\\C#\\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\\Exercise Files\\CH04\\04-15\\done\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+        "projectName": "SchoolLibrary",
+        "projectPath": "C:\\Users\\amorris\\Documents\\C#\\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\\Exercise Files\\CH04\\04-15\\done\\SchoolApp\\SchoolLibrary\\SchoolLibrary.csproj",
+        "packagesPath": "C:\\Users\\amorris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amorris\\Documents\\C#\\Ex_Files_C_Sharp_EssT_1_Syntax_OOP\\Exercise Files\\CH04\\04-15\\done\\SchoolApp\\SchoolLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amorris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
